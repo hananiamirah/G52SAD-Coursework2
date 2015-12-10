@@ -1,0 +1,8 @@
+
+For the first part, I have altered some changes in the ImageView.fxml and also ImageView.java in order to be able to run the original code. 
+Initially the code has a linking problem as the name of the file is not valid which results in error while running. 
+
+As for the licensing, GitHub provides list of licenses options and it is depending on the developer to choose during the creation of 
+the repository. providing an open source license allows other user to make modifications to the code rather than just enacting copyright
+laws upon the code that it became vulnerable for other people to access. As for this source code, I would go with the MIT license which is 
+not very strict and welcome all sort of modifications as long as the credits goes back to the original owner.
